@@ -1,10 +1,10 @@
 package com.fota.test;
 
-import com.faota.sdk.server.connect.service.Client;
-import com.faota.sdk.server.connect.service.CommunicationManager;
-import com.faota.sdk.server.connect.service.Repeater;
-import com.faota.sdk.server.connect.service.ResponseListener;
-import com.faota.sdk.server.connect.service.Service;
+import com.sitcoder.netty.sdk.server.connect.service.Client;
+import com.sitcoder.netty.sdk.server.connect.service.CommunicationManager;
+import com.sitcoder.netty.sdk.server.connect.service.Repeater;
+import com.sitcoder.netty.sdk.server.connect.service.ResponseListener;
+import com.sitcoder.netty.sdk.server.connect.service.Service;
 
 public class testServer implements ResponseListener {
 
