@@ -1,9 +1,9 @@
 package com.fota.test;
 
-import com.sitcoder.netty.sdk.client.connect.Message;
-import com.sitcoder.netty.sdk.client.connect.client.Client;
-import com.sitcoder.netty.sdk.client.connect.client.CommunicationManager;
-import com.sitcoder.netty.sdk.client.connect.client.ResponseListener;
+import com.fota.sdk.client.connect.Message;
+import com.fota.sdk.client.connect.client.Client;
+import com.fota.sdk.client.connect.client.CommunicationManager;
+import com.fota.sdk.client.connect.client.ResponseListener;
 
 public class testClinet implements ResponseListener {
 	
